@@ -3,6 +3,7 @@
 台灣郵遞區號查詢小幫手
 使用 zip5.5432.tw API 查詢地址對應的 3+2 / 3+3 碼郵遞區號
 API 來源: https://zip5.5432.tw
+Created by Keith K.S Lee by Claude on 20260309
 """
 
 import argparse
